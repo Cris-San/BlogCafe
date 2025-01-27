@@ -27,7 +27,7 @@ Este proyecto aplica principios de **Responsive Web Design** usando **CSS Grid**
 ---
 
 ## 📂 Estructura del proyecto  
-
+```plaintext
 📁 BlogCafe/
 ├── 📁 css/            # Archivos de estilos
 ├── 📁 img/            # Imágenes del proyecto
@@ -36,7 +36,7 @@ Este proyecto aplica principios de **Responsive Web Design** usando **CSS Grid**
 ├── entrada.html       # Detalle completo de una entrada del blog
 ├── index.html         # Página principal del blog
 ├── nosotros.html      # Información sobre el equipo o misión del blog
-
+```
 ---
 
 ## 🚀 Cómo usar este proyecto
