@@ -72,6 +72,16 @@ Este proyecto forma parte de mis prácticas en diseño Responsive Web Design y p
 
 👉 Blog Café en GitHub Pages: https://cris-san.github.io/BlogCafe/
 
+## 🌐 Conéctate conmigo  
+
+<a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
+</a>  
+<br>  
+<a href="https://github.com/tu-usuario" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" height="30">
+</a>
+
 
 
 
