@@ -37,36 +37,4 @@ Este proyecto aplica principios de **Responsive Web Design** usando **CSS Grid**
 ├── index.html         # Página principal del blog
 ├── nosotros.html      # Información sobre el equipo o misión del blog
 
----
-
-## 🚀 Cómo usar este proyecto
-Clona este repositorio:
-git clone https://github.com/Cris-San/BlogCafe.git
-
-Abre el archivo index.html en tu navegador para explorar el blog.
-
-Alternativamente, accede a la versión en vivo en GitHub Pages:
-
-👉 Blog Café en GitHub Pages: https://cris-san.github.io/BlogCafe/
-
----
-
-## 🤝 Contribuciones
-Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, sigue estos pasos:
-
-Haz un fork del repositorio.
-Crea una nueva rama: git checkout -b feature-nombre-feature
-
-Realiza tus cambios y haz commit:
-git commit -m "Descripción breve de los cambios"
-
-Haz push a la rama:
-git push origin feature-nombre-feature
-
-Abre un pull request.
-
-## 🏆 Créditos
-Creado con 💖 por Cristian Sánchez.
-Este proyecto forma parte de mis prácticas en diseño Responsive Web Design y patrones de diseño.
-
 
